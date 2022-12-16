@@ -3,12 +3,12 @@ app de portafolio en flutter
 
 # Features
 
-Inicio de sesión mediante firebase authentication
-Listado de proyectos obtenidos de los repositorios de ["www.LinoMackay.com"]
-Buscador de proyectos
-Lista de favoritos de proyecto (Almacenada de manera local)
-Provider como manejador de estados
-Sistemas de rutas propio y escalable
+-Inicio de sesión mediante firebase authentication
+-Listado de proyectos obtenidos de los repositorios de ["www.LinoMackay.com"]
+-Buscador de proyectos
+-Lista de favoritos de proyecto (Almacenada de manera local)
+-Provider como manejador de estados
+-Sistemas de rutas propio y escalable
 
 # Video
 
